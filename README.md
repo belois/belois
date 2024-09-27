@@ -2,7 +2,7 @@
 #### I am GitHub User
 ![I am GitHub User](https://upload.wikimedia.org/wikipedia/commons/8/80/Apple_III_logo.svg)
 
-I work as a IT professional.
+I work as an IT professional.
 
 Skills: Aruba / Lean / Scrum / Apple / Markdown / SysAdmin
 
