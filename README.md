@@ -7,7 +7,7 @@ In the healthcare sector, I work as an IT professional
 Skills: Aruba / Lean / Scrum / Apple / Markdown / SysAdmin
 
 - 🔭 I’m currently working on documentation 
-- 🌱 I’m currently learning HBO Management 
+- 🌱 I'm currently reading How to avoid a climate disaster from Bill Gates
 - 📫 How to reach me: michel@belois.nl 
 
 
